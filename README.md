@@ -14,5 +14,5 @@
 	<a href="https://www.twitch.tv/vitor_roma" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitor-roma-5606a997" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
- ![Snake animation](https://github.com/vitorroma/vitorromaini/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/vitorroma/vitorroma/blob/output/github-contribution-grid-snake.svg)
     
