@@ -1,6 +1,6 @@
 ## Olá Eu sou o Vitor Roma
 
-- 🌱 Estudando SQL
+- 🌱 Estudando MS Graph
 
  <div>
   <a href="https://github.com/vitorroma">
